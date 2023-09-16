@@ -1,0 +1,8 @@
+node_modules
+.wwebjs_auth
+.wwebjs_cache
+
+src/assets/image.jpeg
+src/assets/image.jpg
+src/assets/image.png
+src/assets/contacts.js
